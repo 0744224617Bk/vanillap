@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(169, 169, 214);
+    font-family: sans-serif;
+}
+
+.weather-app {
+    background: white;
+    max-width: 600px;
+    margin: 45px auto;
+    box-shadow: 0 30px 30px;
+    border-radius: 16px;
+    padding: 30px; 
+} 
+.search-fore-input {
+    background-color: rgb(241, 238, 238);
+    border: none;
+    border-radius: 6px;
+    width: 6px;
+    font-size: 16px;
+    padding: 15px 20p;
+}
+.search-fore-button {
+    background: whitesmoke;
+    padding: 15px 20px;
+    border: none;
+    margin-left: 14px;
+    border-radius:6px;
+
+}
